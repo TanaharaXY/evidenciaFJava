@@ -28,3 +28,13 @@ Este nos permitira dar la alta de pacientes, doctores, creacion de citas y anexa
 al momento de dar alta de pacientes se nos pedira datos personales de este, en el caso de los doctores sera parecido y para ambos se creara un ID que nose servira para asociar los datos de maneras mas eficientes
 En la parte de las citas podemos crearlas con la razon de esta y las enfermedades de los pacientes para asi anexarlas a la persona correcta
 Se anexara un video donde se dara una explicacion mas detallada
+
+CRÉDITOS
+
+Juan Alfredo Lara Garcia
+
+LICENCIA
+
+Juan Alfredo Lara Garcia 
+NETBEANS 8.2 IDE
+
